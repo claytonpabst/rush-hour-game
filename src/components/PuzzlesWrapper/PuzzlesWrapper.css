@@ -1,0 +1,20 @@
+.puzzles-wrapper_wrapper {
+  position: relative;
+  background: orange;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.puzzles-wrapper_block {
+  border: 1px solid white;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  background: #555;
+}
+
+.car {
+  position: absolute;
+}
